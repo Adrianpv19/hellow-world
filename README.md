@@ -5,4 +5,4 @@ optional
 
 ---
 
-Tambien ecuaciones $x_1$ (aunque no se vea)
+Tambien ecuaciones $ x_1 $ (aunque no se vea)
